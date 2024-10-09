@@ -39,8 +39,7 @@ The project is implemented in Python with the following libraries:
 ## 🤖 Models Implemented
 Several machine learning models were explored for predicting car prices, including:
 1. 🌳 **Random Forest Regressor**
-2. 📈 **Gradient Boosting Regressor**
-3. 🚀 **XGBoost Regressor**
+2. 🚀 **XGBoost Regressor**
 
 These models were evaluated based on:
 - **📉 Mean Squared Error (MSE)**
